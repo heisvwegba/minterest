@@ -1,6 +1,5 @@
 ### Core
 - User profiles 
-- Upload, like, download, share, delete post
-- In-app + toast notifications
-- Search: post, user
-- Settings 
+- Upload, like, save, share, delete post
+- Settings & toast notifs
+- Search posts
