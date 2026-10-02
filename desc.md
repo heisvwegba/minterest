@@ -1,10 +1,5 @@
 ### MVP scope
 - User profiles 
-- Upload photos & videos (<30s)
-- Masonry-style visual feed 
-- Like, save, share 
-- Delete posts
-
-### Post MVP
+- Upload, like, download, share, delete posts
+- Toast & in-app notifications
 - Settings 
-- Notifications (toast, email)
